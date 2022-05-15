@@ -31,3 +31,7 @@
  
  Se utilizo el middleware para consulta el author de las peticiones
  
+ 
+ Heroku Deploy
+ https://backendserver-meli.herokuapp.com/api/items
+ 
