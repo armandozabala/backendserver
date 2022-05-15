@@ -14,12 +14,12 @@
  
  La aplicacion por defecto corre en el puerto 3300, esto configurado desde el archivo de ambiente .env, donde se puede manipular la url base del API Mercado Libre, Region, Nombre y Apellido del Author
  
- #Routes
+ # Routes
  
  /api/items
  /api/items/:id
  
- #Controladores
+ # Controladores
  
  Se uso los controladores para manejar la logica de las solicitudes que se pidierón en la prueba estas son:
  
@@ -27,7 +27,7 @@
  getItemsByIdAndDescription   por id de item
  
  
- #Middleware
+ # Middleware
  
  Se utilizo el middleware para consulta el author de las peticiones
  
