@@ -11,6 +11,7 @@ app.use(bodyParser.json());
 
 /**
  * routes
+ * api/items
  */
 app.use("/api/items", require("./routes/items"));
 
