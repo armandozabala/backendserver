@@ -6,11 +6,11 @@
  
  Dependencias
  
- Express
- Axios
- Cors
- Dotenv
- body-parser
+ * Express
+ * Axios
+ * Cors
+ * dotenv
+ * body-parser
  
  La aplicacion por defecto corre en el puerto 3300, esto configurado desde el archivo de ambiente .env, donde se puede manipular la url base del API Mercado Libre, Region, Nombre y Apellido del Author
  
@@ -35,3 +35,5 @@
  ## Heroku Deploy
  https://backendserver-meli.herokuapp.com/api/items
  
+
+ AZ
