@@ -1,3 +1,4 @@
+const { getCurrency } = require("./getCurrencies");
 /**
  * Build Item Object
  * @param {*} item
