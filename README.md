@@ -16,15 +16,15 @@
  
  # Routes
  
- /api/items
- /api/items/:id
+ * /api/items
+ * /api/items/:id
  
  # Controladores
  
  Se uso los controladores para manejar la logica de las solicitudes que se pidierón en la prueba estas son:
  
- getItemsBySearch  por query de busqueda
- getItemsByIdAndDescription   por id de item
+ - getItemsBySearch  por query de busqueda
+ - getItemsByIdAndDescription   por id de item
  
  
  # Middleware
@@ -32,6 +32,6 @@
  Se utilizo el middleware para consulta el author de las peticiones
  
  
- Heroku Deploy
+ ## Heroku Deploy
  https://backendserver-meli.herokuapp.com/api/items
  
