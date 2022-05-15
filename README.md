@@ -35,5 +35,4 @@
  ## Heroku Deploy
  https://backendserver-meli.herokuapp.com/api/items
  
-
- AZ
+by Armando Zabala 
