@@ -2,7 +2,7 @@
  
  REST API
  
- Realizado en Node
+ Realizado en Node <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
  
  Dependencias
  
