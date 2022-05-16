@@ -32,6 +32,11 @@
  Se utilizo el middleware para consulta el author de las peticiones
  
  
+ ## Estructura
+ 
+ [![Screenshot-2.png](https://i.postimg.cc/W4rydnz1/Screenshot-2.png)](https://postimg.cc/kVJsZWW0)
+ 
+ 
  ## Heroku Deploy
  https://backendserver-meli.herokuapp.com/api/items
  
